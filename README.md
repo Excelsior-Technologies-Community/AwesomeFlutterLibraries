@@ -61,34 +61,34 @@ created and maintained under the **AwesomeFlutterLibraries** series.
 | ImageCropperView | A simple, native image cropping library for Flutter without third-party dependencies. Built with pure Dart and Flutter widgets. | https://github.com/Excelsior-Technologies-Community/flutter_image_crop/tree/stages_branch |
 | Flutter Auto Dropdowns | A highly customizable Flutter dropdown widget with support for single-select, multi-select, searchable items, and removable selections. Perfect for forms, filters, or anywhere you need a modern dropdown with advanced features. | https://github.com/Excelsior-Technologies-Community/flutter_auto_dropdowns/tree/stages_branch |
 | Otp Auto Fill | A Flutter package for automatically reading and filling OTP from SMS. | https://github.com/Excelsior-Technologies-Community/flutter_autofill_otpbox/tree/stages_branch |
-| Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
-| Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
-| Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
-| Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
-| Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
-| Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
-| Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
-| Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
-| Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
-| Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
-| Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
-| Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
-| Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
-| Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
-| Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
-| Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
-| Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
-| Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
-| Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
-| Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
-| Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
-| Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
-| Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
-| Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
-| Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
-| Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
-| Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
-| Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
+| 📡 Nearby Bluetooth Scanner | A lightweight and plug-and-play Flutter package to scan nearby Bluetooth Low Energy (BLE) devices on Android & iOS — without pairing. | https://github.com/Excelsior-Technologies-Community/flutter_near_by_bluetooth_device/tree/stages_branch |
+| 📌 Expandable Text View | A Flutter package for creating beautiful, animated expandable/collapsible text widgets with extensive customization options. | https://github.com/Excelsior-Technologies-Community/flutter_expandable_text_view/tree/stages_branch |
+| 📵 Screen Restriction | A Flutter plugin to detect & restrict screenshots and screen recording on both Android and iOS. | https://github.com/Excelsior-Technologies-Community/flutter_screen_detector_and_restriction/tree/stages_branch |
+| 📦 Screen Protector | A lightweight Flutter library to protect screens from screen recording and screenshots. | https://github.com/Excelsior-Technologies-Community/flutter_screen_shot_detector/tree/stages_branch |
+| 🎬 Auto Play Video | Autoplay video library for Flutter — Instagram Reels / TikTok style auto play with visibility detection, fade + scale animations, tap pause/play, and network + asset support. 🚀 | https://github.com/Excelsior-Technologies-Community/flutter_auto_play_video/tree/stages_branch |
+| 💧 Watermark View | A simple and powerful Flutter Library to apply Text or Image watermark over any widget. Supports single watermark and tiled/repeated watermark — without using CustomPainter! | https://github.com/Excelsior-Technologies-Community/flutter_water_mark_view/tree/stages_branch |
+| 🎨 Custom Color Picker | A powerful yet easy-to-use Flutter color picker library that provides a professional dialog-based color picker with minimal setup. | https://github.com/Excelsior-Technologies-Community/flutter_color_picker_view/tree/stages_branch |
+| Material Stepper View | A fully customizable Material Stepper library for Flutter with horizontal & vertical layouts, icons/images, animations, and complete style control. | https://github.com/Excelsior-Technologies-Community/flutter_material_stepper_view/tree/stages_branch |
+| 🔦 Spotlight View | A lightweight and flexible Flutter package to highlight any widget (Text, Button, Image, long descriptions, etc.) using a beautiful spotlight overlay. | https://github.com/Excelsior-Technologies-Community/flutter_spot_light_view/tree/stages_branch |
+| 🎈 Balloon Popup | A lightweight and fully customizable Balloon / Tooltip Popup library for Flutter with smooth animations and flexible positioning. | https://github.com/Excelsior-Technologies-Community/flutter_balloon_pop_up/tree/stages_branch |
+| 📘 MVP Architecture in Flutter | This project follows the MVP (Model–View–Presenter) architecture pattern in Flutter. | https://github.com/Excelsior-Technologies-Community/flutter_mvp_architecture/tree/stages_branch |
+| 🚀 Recycler Up Scroll | A RecyclerView-style scroll behavior for Flutter where the Header (AppBar) and Bottom Bar automatically hide on scroll up and reappear on scroll down. | https://github.com/Excelsior-Technologies-Community/flutter_recycler_view_up_scroll/tree/stages_branch |
+| 🔐 PinView | A fully customizable Flutter PIN / OTP input library that supports Box, Underline, and Circle styles with complete control over size, spacing, radius, colors, and text style. | https://github.com/Excelsior-Technologies-Community/flutter_custom_pin_view/tree/stages_branch |
+| 🌀 Smart Material Spinner | A smart, flexible, and fully customizable Material Spinner for Flutter. | https://github.com/Excelsior-Technologies-Community/flutter_smart_material_spinner/tree/stages_branch |
+| ✨ TextSurface | A lightweight and customizable Flutter Text animation library that provides multiple GIF-style animated text effects such as slide, scale, bounce, and wave. | https://github.com/Excelsior-Technologies-Community/flutter_text_surface/tree/stages_branch |
+| 📖 ReadMoreTextView | A lightweight, customizable, and animation-friendly Read More / Read Less text widget for Flutter. | https://github.com/Excelsior-Technologies-Community/flutter_read_more_text_view/tree/stages_branch |
+| 🔍 Auto Text Detector | A lightweight and customizable Flutter library that automatically detects and handles URLs, Emails, and Phone Numbers inside normal text. | https://github.com/Excelsior-Technologies-Community/flutter_auto_text_detector/tree/stages_branch |
+| Flutter Clean Architecture | A scalable Flutter project structure based on Clean Architecture with feature-first design, multiple state management support, and dedicated service layer for APIs and Firebase. | https://github.com/Excelsior-Technologies-Community/flutter_clean_architecture_structure/tree/stages_branch |
+| Pager Dots Indicator | Perfect for PageView, Onboarding screens, Carousels, and Sliders. | https://github.com/Excelsior-Technologies-Community/flutter_pager_dots_indicator/tree/stages_branch |
+| 🃏 SideSwipe Cards | A highly customizable Flutter SideSwipe Cards with smooth left/right swipe gestures, stacked animations, and multiple animation styles — perfect for Tinder-style UIs and interactive card experiences. | https://github.com/Excelsior-Technologies-Community/flutter_sideswipe_cards/tree/stages_branch |
+| 🚀 Progress Indicators | A powerful and flexible Flutter library that provides custom linear and circular progress indicators with support for gradient colors, text & percentage overlays, and smooth animations. | https://github.com/Excelsior-Technologies-Community/Flutter_Progress_Indicators/tree/stages_branch |
+| 🚀 Advanced Smooth Scroll | A RecyclerView-like advanced scrolling library for Flutter that provides ultra-smooth scrolling, auto pagination, pull-to-refresh, and fast scrolling — fully compatible with NestedScrollView & Slivers. | https://github.com/Excelsior-Technologies-Community/Flutter_Advanced_SmoothScroll/tree/stages_branch |
+| Custom Seek Bar | A highly customizable Flutter seek bar with emoji, icon, gradient, vertical, tick marks, and range support. | https://github.com/Excelsior-Technologies-Community/Flutter_Custom_SeekBar/tree/stages_branch |
+| ⭐ Custom Rating Bar | A simple, customizable Flutter rating bar that supports ⭐ Stars • ❤️ Hearts • 😀 Emojis with Tap + Swipe, Half Rating, and smooth animations. |https://github.com/Excelsior-Technologies-Community/Flutter_Custom_RatingBar/tree/stages_branch |
+| 🔄 Flip Card View | A smooth, customizable flip card library for Flutter support for horizontal & vertical flips, and a clean API. | https://github.com/Excelsior-Technologies-Community/Flutter_Flip_Card_View/tree/stages_branch |
+| 📱Contacts Picker | A fully customizable, fast, and feature-rich contact picker for Flutter | https://github.com/Excelsior-Technologies-Community/Flutter_Contacts_Picker/tree/stages_branch |
+| 📥Download Manager | A powerful and easy-to-use Flutter package for handling background downloads with notifications, pause/resume support, permissions, and customizable UI widgets. | https://github.com/Excelsior-Technologies-Community/flutter_download_manager/tree/stages_branch |
+| 📅 Custom Calendar | A fully customizable Calendar + Range Picker + Schedule View + Time Picker widget built using table_calendar. | https://github.com/Excelsior-Technologies-Community/flutter_custom_calendar/tree/stages_branch |
 | Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
 | Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
 | Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
