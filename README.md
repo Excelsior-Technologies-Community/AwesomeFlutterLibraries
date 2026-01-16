@@ -89,10 +89,11 @@ created and maintained under the **AwesomeFlutterLibraries** series.
 | 📱Contacts Picker | A fully customizable, fast, and feature-rich contact picker for Flutter | https://github.com/Excelsior-Technologies-Community/Flutter_Contacts_Picker/tree/stages_branch |
 | 📥Download Manager | A powerful and easy-to-use Flutter package for handling background downloads with notifications, pause/resume support, permissions, and customizable UI widgets. | https://github.com/Excelsior-Technologies-Community/flutter_download_manager/tree/stages_branch |
 | 📅 Custom Calendar | A fully customizable Calendar + Range Picker + Schedule View + Time Picker widget built using table_calendar. | https://github.com/Excelsior-Technologies-Community/flutter_custom_calendar/tree/stages_branch |
-| Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
-| Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
-| Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
-| Screen Restriction | Detect, block or overlay screen capture recording events | https://github.com/USERNAME/screen_restriction |
+| 🔗 Flutter Linkage List | A custom Flutter widget that synchronizes a category list with an item list, supporting both click and scroll linkage, similar to food delivery and shopping apps (Swiggy / Zomato style). | https://github.com/Excelsior-Technologies-Community/flutter_linkage_recycler_view/tree/stage |
+| 🌫️ Blur Image Maker | A lightweight, reusable Flutter widget to create blurred images and frosted glass UI effects using native GPU-accelerated blur. | https://github.com/Excelsior-Technologies-Community/flutter_blur_image_maker/tree/stage |
+| 📜 Observable ScrollView | A custom-built Observable ScrollView in Flutter that allows you to listen to scroll events, detect scroll direction, track scroll offset, and react to top / bottom reach events. | https://github.com/Excelsior-Technologies-Community/flutter_observable_scrollview/tree/stage |
+| Custom Coordinator Tab Layout | A fully custom, dependency-free Flutter layout inspired by Android’s CoordinatorLayout + TabLayout, built completely from scratch. | https://github.com/Excelsior-Technologies-Community/flutter_coordinator_tab_layout/tree/stage |
+| ⏱️ Custom DateTime Picker & Wheel View | A fully custom DateTime Picker and Wheel View built using pure Flutter widgets. | https://github.com/Excelsior-Technologies-Community/flutter_date_time_picker_wheelview/tree/stage |
 | More coming soon... 🚧 | Contribute ideas! | —
 
 
@@ -102,8 +103,6 @@ created and maintained under the **AwesomeFlutterLibraries** series.
 Every package includes:
 - Setup instructions
 - Usage examples
-- Pub.dev integration
-- Sample project
 
 Please visit the README inside each library folder for installation steps.
 
@@ -111,4 +110,21 @@ Please visit the README inside each library folder for installation steps.
 
 ---
 
-### Made with ❤️ by **AwesomeFlutterLibraries**
+## 📜 License
+```text
+Copyright (c) 2026 Excelsior Technologies
+
+Permission is hereby granted, free of charge, to any person obtaining a copy  
+of this software and associated documentation files (the "Software"), to deal  
+in the Software without restriction, including without limitation the rights  
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
+copies of the Software, and to permit persons to whom the Software is  
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all  
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED **"AS IS"**, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR  
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,  
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+```
