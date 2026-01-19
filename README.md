@@ -112,7 +112,7 @@ created and maintained under the **AwesomeFlutterLibraries** series.
 | Smart Bottom Sheet Library | A customizable smart draggable bottom sheet for Flutter with auto expand/collapse, drag control, tap-to-open handle, and safe blur-like overlay. | https://github.com/Excelsior-Technologies-Community/Flutter_Bottom_Sheet/tree/stage |
 | 📝 Custom Flutter Rich Text Editor | A lightweight, fully custom rich text editor built in Flutter using EditableText and a character-level styling model. | https://github.com/Excelsior-Technologies-Community/Flutter_Rich_Editor/tree/stage |
 | Flutter Font Manager | A lightweight, dependency-free Flutter font management system that enables runtime font switching across your entire app using ChangeNotifier + InheritedNotifier. | https://github.com/Excelsior-Technologies-Community/flutter_font_manager/tree/stage |
-| More coming soon... 🚧 | Contribute ideas! | — |
+| More coming soon... 🚧 | Contribute ideas! | —|
 
 
 ---
