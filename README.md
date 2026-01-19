@@ -94,6 +94,11 @@ created and maintained under the **AwesomeFlutterLibraries** series.
 | 📜 Observable ScrollView | A custom-built Observable ScrollView in Flutter that allows you to listen to scroll events, detect scroll direction, track scroll offset, and react to top / bottom reach events. | https://github.com/Excelsior-Technologies-Community/flutter_observable_scrollview/tree/stage |
 | Custom Coordinator Tab Layout | A fully custom, dependency-free Flutter layout inspired by Android’s CoordinatorLayout + TabLayout, built completely from scratch. | https://github.com/Excelsior-Technologies-Community/flutter_coordinator_tab_layout/tree/stage |
 | ⏱️ Custom DateTime Picker & Wheel View | A fully custom DateTime Picker and Wheel View built using pure Flutter widgets. | https://github.com/Excelsior-Technologies-Community/flutter_date_time_picker_wheelview/tree/stage |
+| 🔧 Remote Config | A lightweight, manual Remote Config–style Flutter library that allows you to manage feature flags, text, numbers, and boolean values without Firebase. | https://github.com/Excelsior-Technologies-Community/flutter_remote_configuar/tree/stage  |
+| 📦 Flutter Refresh Bus | A lightweight event-based refresh bus for Flutter that lets you trigger UI updates (like list reloads) across widgets without heavy state management. | https://github.com/Excelsior-Technologies-Community/flutter_refresh_bus/tree/stage |
+| FlutterUnityWidgets | A collection of Unity Editor–style UI widgets built purely in Flutter. This package is UI-only and does NOT connect to Unity. It simply mimics the look and feel of Unity’s Inspector panels and controls. | https://github.com/Excelsior-Technologies-Community/flutter_unity_widgets/tree/stages_branch |
+| More coming soon... 🚧 | Contribute ideas! | — |
+| More coming soon... 🚧 | Contribute ideas! | — |
 | More coming soon... 🚧 | Contribute ideas! | —
 
 
