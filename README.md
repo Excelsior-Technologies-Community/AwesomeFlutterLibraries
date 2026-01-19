@@ -97,9 +97,22 @@ created and maintained under the **AwesomeFlutterLibraries** series.
 | 🔧 Remote Config | A lightweight, manual Remote Config–style Flutter library that allows you to manage feature flags, text, numbers, and boolean values without Firebase. | https://github.com/Excelsior-Technologies-Community/flutter_remote_configuar/tree/stage  |
 | 📦 Flutter Refresh Bus | A lightweight event-based refresh bus for Flutter that lets you trigger UI updates (like list reloads) across widgets without heavy state management. | https://github.com/Excelsior-Technologies-Community/flutter_refresh_bus/tree/stage |
 | FlutterUnityWidgets | A collection of Unity Editor–style UI widgets built purely in Flutter. This package is UI-only and does NOT connect to Unity. It simply mimics the look and feel of Unity’s Inspector panels and controls. | https://github.com/Excelsior-Technologies-Community/flutter_unity_widgets/tree/stages_branch |
+| 🌗 Flutter Theme Switcher | A clean and customizable Light / Dark theme switcher for Flutter with user-defined colors and styles. Built to be simple, flexible, and library-ready. | https://github.com/Excelsior-Technologies-Community/flutter_light_dark_theme/tree/stage |
+| ⏳ Flutter CountdownView library | A customizable Countdown Timer library built in Flutter with animation support for the last 5 seconds. | https://github.com/Excelsior-Technologies-Community/flutter_countdown_view/tree/stage |
+| SmartTextInput | A powerful, reusable smart TextField widget for Flutter with built-in validation, formatting, and UI customization. | https://github.com/Excelsior-Technologies-Community/Flutter_Custom_TextField |
+| ShapableImage | A beautiful, lightweight, and dependency-free Flutter widget to clip any widget (Image, Container, etc.) into different shapes using a custom clipper. | https://github.com/Excelsior-Technologies-Community/Flutter_Shapable_Image |
+| Custom Bottom Navigation Bar | A lightweight, flexible, and dependency-free custom Bottom Navigation Bar for Flutter applications. | https://github.com/Excelsior-Technologies-Community/Flutter_Custom_Bottom_Navigation/tree/master |
+| Custom Notifier | A lightweight and dependency-free Flutter utility to show custom Toasts and custom SnackBars with full control over position, shape, colors, icons, and duration. | https://github.com/Excelsior-Technologies-Community/Flutter_Custom_SnackBar |
+| Swipe Card Pager | A lightweight, customizable Tinder-style swipe card pager built with pure Flutter. | https://github.com/Excelsior-Technologies-Community/Flutter_Swipe_Card |
+| Speech to Text Demo | A simple Flutter demo app that converts spoken words into text using the speech_to_text package and handles microphone permissions using permission_handler. | https://github.com/Excelsior-Technologies-Community/Flutter_Speech_To_Text |
+| Advanced Button Pack | A lightweight, flexible, and dependency-free Flutter button collection providing commonly used button patterns with clean APIs and customization support. | https://github.com/Excelsior-Technologies-Community/Flutter_advance_buttonpack |
+| Rich Media Notifications | A custom in-app rich notification system built with pure Flutter using Overlay. | https://github.com/Excelsior-Technologies-Community/Flutter_RichMedia_Notifications |
+| 🔍 Advanced Search Bar | A reusable Advanced Search Bar widget for Flutter with built-in: 🔍 Text search with debounce | https://github.com/Excelsior-Technologies-Community/Flutter_Advanced_SearchBar/tree/stage |
+| 🔐 Biometric Authentication Library | A Flutter-based Biometric Authentication Library supporting: ✅ Face Unlock ✅ Fingerprint Authentication | https://github.com/Excelsior-Technologies-Community/Flutter_Biometric_Authentication/tree/stage |
+| Smart Bottom Sheet Library | A customizable smart draggable bottom sheet for Flutter with auto expand/collapse, drag control, tap-to-open handle, and safe blur-like overlay. | https://github.com/Excelsior-Technologies-Community/Flutter_Bottom_Sheet/tree/stage |
+| 📝 Custom Flutter Rich Text Editor | A lightweight, fully custom rich text editor built in Flutter using EditableText and a character-level styling model. | https://github.com/Excelsior-Technologies-Community/Flutter_Rich_Editor/tree/stage |
+| Flutter Font Manager | A lightweight, dependency-free Flutter font management system that enables runtime font switching across your entire app using ChangeNotifier + InheritedNotifier. | https://github.com/Excelsior-Technologies-Community/flutter_font_manager/tree/stage |
 | More coming soon... 🚧 | Contribute ideas! | — |
-| More coming soon... 🚧 | Contribute ideas! | — |
-| More coming soon... 🚧 | Contribute ideas! | —
 
 
 ---
