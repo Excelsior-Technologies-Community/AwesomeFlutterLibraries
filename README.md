@@ -112,7 +112,11 @@ created and maintained under the **AwesomeFlutterLibraries** series.
 | Smart Bottom Sheet Library | A customizable smart draggable bottom sheet for Flutter with auto expand/collapse, drag control, tap-to-open handle, and safe blur-like overlay. | https://github.com/Excelsior-Technologies-Community/Flutter_Bottom_Sheet/tree/stage |
 | 📝 Custom Flutter Rich Text Editor | A lightweight, fully custom rich text editor built in Flutter using EditableText and a character-level styling model. | https://github.com/Excelsior-Technologies-Community/Flutter_Rich_Editor/tree/stage |
 | Flutter Font Manager | A lightweight, dependency-free Flutter font management system that enables runtime font switching across your entire app using ChangeNotifier + InheritedNotifier. | https://github.com/Excelsior-Technologies-Community/flutter_font_manager/tree/stage |
-| More coming soon... 🚧 | Contribute ideas! | —|
+| Bottom Sheet | A reusable, customizable, and lightweight bottom sheet package for Flutter 🚀 Designed to be simple to use, easy to extend, and production-ready. | https://github.com/Excelsior-Technologies-Community/flutter_bottom_sheets/tree/stages_branch |
+| 🚀 App Buttons | A clean, reusable Flutter button library that provides Primary, Secondary, and Icon buttons with consistent design, loading states, and theme support. | https://github.com/Excelsior-Technologies-Community/flutter_buttons/tree/stage |
+| 🧩 AppDialog | AppDialog is a simple, reusable Flutter dialog widget designed for custom UI dialogs with configurable background colors and fully customizable content. | https://github.com/Excelsior-Technologies-Community/flutter_app_dialogs/tree/stage |
+| Flutter Empty State | A clean, modern, and customizable empty state widget for Flutter apps. | https://github.com/Excelsior-Technologies-Community/flutter_empty_state_widgets/tree/stage |
+| More coming soon... 🚧 | Contribute ideas! | — |
 
 
 ---
